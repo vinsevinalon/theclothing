@@ -3,9 +3,9 @@
 
 DEVELOP ENVIRONMENT 
 
-shopify theme dev
+`shopify theme dev`
 
 
 DEVELOP DEPLOYMENT 
 
-shopify theme push
+`shopify theme push`
