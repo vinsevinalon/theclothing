@@ -170,7 +170,7 @@
         "type": "newsletter",
         "settings": {
           "heading": "",
-          "subtext": "<p>Sign up to our newsletter for latest release.<\/p>",
+          "subtext": "<p>Sign up to our newsletter for latest releaseeee<\/p>",
           "color_bg": "#eeeeee"
         }
       },
